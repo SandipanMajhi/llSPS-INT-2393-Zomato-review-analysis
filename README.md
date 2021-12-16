@@ -6,6 +6,6 @@ Web based tool which analyses restaurant reviews to predict sentiments presented
 
 Contains a box where review can be entered and when clicked on "Predict" button it gives the prediction for the sentiment.
 
-#Credits
+# Credits
 
 Sandipan Majhi, K Sai Charan, Sheeba, Akshita S
